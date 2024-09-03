@@ -1,0 +1,49 @@
+img {
+width: 200px;
+border-style:ridge
+}
+img{
+    margin-left: 50px; 
+    border-color: plum;
+}
+h1 { color:blueviolet ;
+background-color: plum;
+font-style: italic;
+margin-top: 50px; 
+}
+p{ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+.final {
+    color: blueviolet;
+    background-color: plum;
+    font-style: italic;
+}
+
+td {
+    background-color: rgb(228, 215, 215);
+}
+tr {
+    background-color: plum;
+}
+#livro {
+    background-color: plum;
+}
+#filme {
+    background-color: plum;
+}
+
+.borda { border-style:inset
+}
+
+.borda{
+    border-color:plum
+}
+
+body {
+    background-image: url("https://img.elo7.com.br/product/zoom/2B2A1E7/adesivo-de-parede-teen-coracoes-em-tons-pastel-fundo-bege-3m-papel-de-parede-floral-abstrato.jpg")
+}
+
+td a{ color: rgb(219, 76, 219);
+
+}
